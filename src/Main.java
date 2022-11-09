@@ -13,7 +13,7 @@ public class Main {
         System.out.print("Welcome to awesome phonebook!" +
                 "\nYou can manage your contacts here!" +
                 "\nList of commands:" +
-                "\n'add firstName lastName phone' for save contact" +
+                "\n'add firstName lastName phone type(Рабочий/Семья/Друзья)' for save contact" +
                 "\n'delete phone' for remove contact" +
                 "\n'all' for show all contacts" +
                 "\n'find firstName/lastName' for search contact" +
